@@ -1,0 +1,58 @@
+.page-wrapper {
+  background-color: black;
+  text-decoration: none;
+}
+a {
+  font-size: medium;
+  color: rgb(168, 168, 168);
+}
+h3 {
+  font-size: large;
+  color: white;
+}
+.vl {
+  border-left: 3px solid rgb(65, 64, 64);
+  height: 120px;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.second {
+  display: inline-block;
+  margin-left: 20px;
+  text-decoration: none;
+  border-left: 3px rgb(168, 168, 168);
+}
+.third {
+  display: inline-block;
+  text-decoration: none;
+  margin-left: 100px;
+}
+.fourth {
+  display: inline-block;
+  text-decoration: none;
+  margin-left: 100px;
+}
+.fifth {
+  display: inline-block;
+  text-decoration: none;
+  margin-left: 100px;
+}
+.image-wrapper{
+    margin-left:90%
+}
+.icon-bar{
+    width: 100%;
+ 
+  overflow: auto;
+}
+
+  .icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+  }
